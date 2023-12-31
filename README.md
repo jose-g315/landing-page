@@ -1,4 +1,4 @@
-# landing-page
+# water-page
 Landing page project from TOP.
 
 ## Purpose
