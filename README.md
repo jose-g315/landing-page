@@ -8,6 +8,6 @@ Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attr
 
 Image by <a href="https://pixabay.com/users/jarmoluk-143740/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2105213">Michal Jarmoluk</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2105213">Pixabay</a>
 
-Image by <a href="https://pixabay.com/users/anilsharma26-13475484/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7070112">Anil sharma</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7070112">Pixabay</a>
+Image by <a href="https://pixabay.com/users/ryanmcguire-123690/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=413684">Ryan McGuire</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=413684">Pixabay</a>
 
 Image by <a href="https://pixabay.com/users/tiburi-2851152/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1576418">Tibor Janosi Mozes</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1576418">Pixabay</a>
