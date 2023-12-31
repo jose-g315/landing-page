@@ -1,7 +1,13 @@
 # landing-page
 Landing page project from TOP.
 
-## Images 
+## Purpose
+The purpose of this project was to practice my html and css skills. Flexbox was used extensively to style the page to ensure a proper layout. This was a fun project to sharpen my skills and create a sleek and modern landing page.
+
+### Images
+Below are the images used in this project along with their source.
+<br>
+<br> 
 <img src="./images/drop-of-water-578897_1280.jpg" alt="Bottle of water." width="200" heigh="200">
 Image by <a href="https://pixabay.com/users/ronymichaud-647623/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=578897">rony michaud</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=578897">Pixabay</a>
 <br>
