@@ -1,0 +1,128 @@
+/*Styles for the landing page.
+jose-g315 */
+
+/**********Site Wide Styles***************/
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Roboto, sans-serif;
+}
+li {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+section {
+    display: flex;
+    flex-direction: column;
+}
+button {
+    padding: 10px;
+    background-color: #3882F6;
+    width: 80px;
+    border-radius: 15px;
+    color: white;
+}
+/**********Header Styles*****************/
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #1F2937;
+    color: white;
+}
+.logo {
+    padding-left: 150px;
+    font-weight: 900;
+    font-size: 32px;
+}
+.header ul {
+    display: flex;
+    gap: 10px;
+    padding-right: 150px;
+}
+/**********Div-One Styles*****************/
+.div-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 50px;
+    background-color: #1F2937;
+    color: white;
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 150px;
+}
+.right {
+    padding-right: 150px;
+}
+.hero-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+.divOne-image {
+    width: 500px;
+    height: 250px;
+}
+/**********Div-Two Styles*****************/
+.div-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    padding: 50px;
+}
+.cards {
+    display: flex;
+    gap: 50px;
+}
+/**********Div-Three Styles*****************/
+.div-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-color: #E5E7EB;
+}
+.quote-text {
+    font-size: 36px;
+    font-style: light-italic;
+    color: #1F2937;
+}
+/**********Div-Four Styles*****************/
+.div-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.action-div {
+    display: flex;
+    height: 150px;
+    align-items: center;
+    background-color: #3882F6;
+    gap: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.action-button {
+    border: 1px solid white;
+}
+/**********Footer Styles*****************/
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 20px;
+    color: #F9FAF8;
+}
