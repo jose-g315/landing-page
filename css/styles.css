@@ -25,6 +25,7 @@ button {
     background-color: #3882F6;
     width: 80px;
     border-radius: 15px;
+    border: 3px solid white;
     color: white;
 }
 /**********Header Styles*****************/
@@ -43,7 +44,7 @@ button {
 }
 .header ul {
     display: flex;
-    gap: 10px;
+    gap: 18px;
     padding-right: 150px;
 }
 /**********Div-One Styles*****************/
@@ -73,6 +74,7 @@ button {
 .divOne-image {
     width: 500px;
     height: 250px;
+    border: 3px solid white;
 }
 /**********Div-Two Styles*****************/
 .div-two {
@@ -82,9 +84,23 @@ button {
     gap: 30px;
     padding: 50px;
 }
+.cards-header {
+    font-size: 32px;
+    font-weight: 900;
+}
 .cards {
     display: flex;
     gap: 50px;
+}
+.card {
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
+.card-image {
+    height: 350px;
+    width: 350px;
+    border: 2px solid #1F2937;
 }
 /**********Div-Three Styles*****************/
 .div-three {
@@ -96,8 +112,10 @@ button {
 }
 .quote-text {
     font-size: 36px;
-    font-style: light-italic;
+    font-style: italic;
     color: #1F2937;
+    width: 700px;
+    height: 250px;
 }
 /**********Div-Four Styles*****************/
 .div-four {
@@ -114,9 +132,15 @@ button {
     gap: 80px;
     padding-left: 30px;
     padding-right: 30px;
+    color: white;
+    border-radius: 15px;
 }
 .action-button {
-    border: 1px solid white;
+    border: 3px solid white;
+}
+.action-text {
+    font-size: 18px;
+    font-weight: 900;
 }
 /**********Footer Styles*****************/
 .footer {
